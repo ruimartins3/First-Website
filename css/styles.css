@@ -134,6 +134,7 @@ a:hover {
   -moz-border-radius: 8;
   border-radius: 8px;
   border-color: #5ecfb6;
+  border-witdh: 3px;
   font-family: 'Montserrat', sans-serif;
   color: #ffffff;
   font-size: 20px;
