@@ -133,13 +133,12 @@ a:hover {
   -webkit-border-radius: 8;
   -moz-border-radius: 8;
   border-radius: 8px;
-  border-color: #5ecfb6;
   border-witdh: 3px;
   font-family: 'Montserrat', sans-serif;
   color: #ffffff;
   font-size: 20px;
   padding: 10px 20px 10px 20px;
-  border: solid #39b99d 2px;
+  border: solid #5ecfb6 2px;
   text-decoration: none;
 }
 
